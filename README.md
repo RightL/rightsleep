@@ -25,15 +25,6 @@ It plays gentle prompt tones at customized intervals to help you breathe, relax,
 - 👆 Tap to continue when you need more time  
 - 💤 Adjustable screen-off delay for seamless sessions
 
----
-
-## 📥 下载 Download
-
-可在 App Store 下载（审核通过后更新链接）  
-Available on the App Store (link will be updated after review)
-
-📱 RightSleep（App Store 上线后请贴链接）  
-👉 Coming soon to the App Store
 
 ---
 
