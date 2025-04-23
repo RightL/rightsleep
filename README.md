@@ -25,6 +25,19 @@ No tracking, no login, no cloud dependency.
 
 ---
 
+## 🛠️ 技术支持 · Support
+
+如有问题或建议，欢迎通过以下方式联系我们：  
+For bug reports or suggestions, feel free to reach out:
+
+- 在此仓库提交 [Issue](https://github.com/rightl/rightsleep/issues)  
+- Submit an issue [here](https://github.com/rightl/rightsleep/issues)
+
+📧 或邮件联系 / Or email us at: `rightl@hotmail.com`
+
+
+---
+
 
 ## 🎯 核心功能 · Core Features
 
@@ -60,17 +73,6 @@ This mode gradually increases the interval between tones, mimicking a natural wi
 - ⚙️ 自定义初始间隔与增长速度  
 - 🕒 更长的总持续时间选项  
 
----
-
-## 🛠️ 技术支持 · Support
-
-如有问题或建议，欢迎通过以下方式联系我们：  
-For bug reports or suggestions, feel free to reach out:
-
-- 在此仓库提交 [Issue](https://github.com/rightl/rightsleep/issues)  
-- Submit an issue [here](https://github.com/rightl/rightsleep/issues)
-
-📧 或邮件联系 / Or email us at: `rightl@hotmail.com`
 
 
 
