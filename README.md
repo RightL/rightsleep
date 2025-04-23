@@ -13,6 +13,19 @@ It plays gentle prompt tones at customized intervals to help you breathe, relax,
 
 ---
 
+## 🔐 隐私政策 · Privacy Policy
+
+- 本应用 **不收集任何个人信息**  
+- 所有设置均保存在本地，**不联网、不上传、不追踪**  
+- 无需注册登录，纯离线使用  
+
+This app **does not collect any personal data**.  
+All preferences are stored locally on device.  
+No tracking, no login, no cloud dependency.
+
+---
+
+
 ## 🎯 核心功能 · Core Features
 
 - ⏱️ 自定义提示音间隔与总时长  
@@ -59,17 +72,7 @@ For bug reports or suggestions, feel free to reach out:
 
 📧 或邮件联系 / Or email us at: `rightl@hotmail.com`
 
----
 
-## 🔐 隐私政策 · Privacy Policy
-
-- 本应用 **不收集任何个人信息**  
-- 所有设置均保存在本地，**不联网、不上传、不追踪**  
-- 无需注册登录，纯离线使用  
-
-This app **does not collect any personal data**.  
-All preferences are stored locally on device.  
-No tracking, no login, no cloud dependency.
 
 ---
 
